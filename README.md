@@ -1,1 +1,3 @@
 # Rosie-sCardBot
+
+PURPLE YOU~RE GAY SORRY
