@@ -1,6 +1,5 @@
 # Steam-Card-Bot-v3
-Updated and fixed by GGrandma
-
+noob
 Setup:
 1. Run install.bat
 2. Setup config.js in the SETTINGS folder
