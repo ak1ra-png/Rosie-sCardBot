@@ -1,5 +1,10 @@
 # Steam-Card-Bot-v3
-noob
+noob men purple noob
+
+
+
+
+
 Setup:
 1. Run install.bat
 2. Setup config.js in the SETTINGS folder
